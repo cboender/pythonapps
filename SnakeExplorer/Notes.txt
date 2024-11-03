@@ -1,0 +1,1 @@
+-pygame as an alternative if i can't get the console to work
